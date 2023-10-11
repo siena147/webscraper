@@ -14,7 +14,8 @@
     "react-dom": "^18",
     "puppeteer": "^21.3.8",
     "react-inlinesvg": "^4.0.5",
-    "react-json-pretty": "^2.2.0"
+    "react-json-pretty": "^2.2.0",
+    "chrome-aws-lambda": "^10.1.0"
   },
   "devDependencies": {
     "@types/node": "20.8.4",
